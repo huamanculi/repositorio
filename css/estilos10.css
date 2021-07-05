@@ -1,0 +1,15 @@
+footer{
+    background: #f37907;
+    padding: 60px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+    color: azure;
+    text-align: center;
+}
+.contenedor-footer{
+    display: flex;
+    width: 90%;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-bottom: 50px;
+}
